@@ -13,10 +13,6 @@ class Program
         int number = randomGenerator.Next(1,101);
         magicNumber = number;
         
-        //Console.Write("What is the magic number? ");
-        //string magic = Console.ReadLine();
-        //magicNumber = int.Parse(magic);
-        
         while (guess != magicNumber)
         {   
             Console.Write("What is your guess? ");
