@@ -1,0 +1,2 @@
+0
+SimpleGoal:Shopping,Shop for groceries tomorrow,100,False
